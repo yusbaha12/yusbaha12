@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yusuf
 
-![Profile Views](https://komarev.com/ghpvc/?username=yusbaha12color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yusbaha12&color=blue)
 
 I am a passionate **Software Developer** based in Semarang, Indonesia. I specialize in building highly scalable web applications, designing complex system architectures, and integrating real-time technologies. Operating natively in a Linux environment, I love tackling real-world problems—from logistics and retail to healthcare and education.
 
